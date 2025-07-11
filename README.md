@@ -7,7 +7,7 @@ This is a simple and responsive **Bus Booking Website** built using **HTML, CSS,
 ## 🌐 Live Preview
 
 Click below to view the website live:  
-🔗 [https://yourusername.github.io/bus-booking-website](https://saichennakesava23.github.io/bus-booking-website)
+🔗 [https://saichennakesava23.github.io/bus-booking-website](https://saichennakesava23.github.io/bus-booking-website)
 
 > Replace `yourusername` with your actual GitHub username after publishing.
 
